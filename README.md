@@ -20,6 +20,5 @@ Here are some ideas to get you started:
 <img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white"/> -->
 
 ![z1s5c3x2's stats](https://github-readme-stats.vercel.app/api?username=z1s5c3x2&show_icons=true&theme=radical) </br>
-
-![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=adwdsd6542)](https://solved.ac/adwdsd6542/)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=adwdsd6542)](https://solved.ac/adwdsd6542/)
 
